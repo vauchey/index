@@ -9,7 +9,7 @@
     [![](https://img.youtube.com/vi/eBQ7_MFVoIs/0.jpg)](https://www.youtube.com/watch?v=eBQ7_MFVoIs)
 
 
-* [lidar/imu/RGBD datasets around the ESIGELEC with several seasons](https://github.com/vauchey/StaircaseLocalization)
+* [lidar/imu/RGBD datasets around the ESIGELEC with several seasons](https://github.com/vauchey/GroundTruthHighAccuracyDataset)
 
     [![](images/LOOP1.gif)](https://www.google.com/maps/d/embed?mid=1cAdJnWjBnK7ZZkCva8ftSXN_qYLh2o9t)
 

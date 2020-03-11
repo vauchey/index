@@ -4,7 +4,6 @@
 
 # Index of datasets :
 
-
 * [lidar/imu 3d mapping Utacceram](https://github.com/vauchey/mappingUtacceram)
 
     [![](https://img.youtube.com/vi/eBQ7_MFVoIs/0.jpg)](https://www.youtube.com/watch?v=eBQ7_MFVoIs)
